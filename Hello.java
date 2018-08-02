@@ -1,4 +1,3 @@
-package sits.maven_demo;
 
 public class Hello
 {
